@@ -1,2 +1,4 @@
-# my_nustest20210312
-This is my test project to get started on GitHub 
+# Test Project DevOps 102
+
+This is my test project to get started on GitHub
+GitHub is really awaesome
